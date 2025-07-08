@@ -1,0 +1,13 @@
+.center_text{
+    text-align: center;
+}
+
+:root {
+  color-scheme: light dark;
+}
+
+.center_image{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
